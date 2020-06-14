@@ -13053,6 +13053,96 @@ Source: www.kingbright.com</description>
 <junction x="386.08" y="124.46"/>
 </segment>
 </net>
+<net name="N$32" class="0">
+<segment>
+<pinref part="IC1" gate="G$1" pin="2"/>
+<junction x="91.44" y="190.5"/>
+</segment>
+</net>
+<net name="N$33" class="0">
+<segment>
+<pinref part="IC1" gate="G$1" pin="6"/>
+<junction x="106.68" y="187.96"/>
+</segment>
+</net>
+<net name="N$35" class="0">
+<segment>
+<pinref part="IC2" gate="G$1" pin="2"/>
+<junction x="93.98" y="96.52"/>
+</segment>
+</net>
+<net name="N$36" class="0">
+<segment>
+<pinref part="IC2" gate="G$1" pin="6"/>
+<junction x="109.22" y="93.98"/>
+</segment>
+</net>
+<net name="N$37" class="0">
+<segment>
+<pinref part="IC3" gate="G$1" pin="2"/>
+<junction x="314.96" y="187.96"/>
+</segment>
+</net>
+<net name="N$39" class="0">
+<segment>
+<pinref part="IC3" gate="G$1" pin="6"/>
+<junction x="330.2" y="185.42"/>
+</segment>
+</net>
+<net name="N$40" class="0">
+<segment>
+<pinref part="IC10" gate="G$1" pin="2"/>
+<junction x="256.54" y="124.46"/>
+</segment>
+</net>
+<net name="N$42" class="0">
+<segment>
+<pinref part="IC10" gate="G$1" pin="6"/>
+<junction x="271.78" y="121.92"/>
+</segment>
+</net>
+<net name="N$44" class="0">
+<segment>
+<pinref part="IC9" gate="G$1" pin="6"/>
+<junction x="271.78" y="137.16"/>
+</segment>
+</net>
+<net name="N$45" class="0">
+<segment>
+<pinref part="IC11" gate="G$1" pin="2"/>
+<junction x="370.84" y="139.7"/>
+</segment>
+</net>
+<net name="N$46" class="0">
+<segment>
+<pinref part="IC12" gate="G$1" pin="2"/>
+<junction x="370.84" y="124.46"/>
+</segment>
+</net>
+<net name="N$48" class="0">
+<segment>
+<pinref part="IC12" gate="G$1" pin="6"/>
+<junction x="386.08" y="121.92"/>
+</segment>
+</net>
+<net name="N$50" class="0">
+<segment>
+<pinref part="IC11" gate="G$1" pin="6"/>
+<junction x="386.08" y="137.16"/>
+</segment>
+</net>
+<net name="N$51" class="0">
+<segment>
+<pinref part="IC8" gate="G$1" pin="6"/>
+<junction x="332.74" y="91.44"/>
+</segment>
+</net>
+<net name="N$52" class="0">
+<segment>
+<pinref part="IC8" gate="G$1" pin="2"/>
+<junction x="317.5" y="93.98"/>
+</segment>
+</net>
 </nets>
 </sheet>
 </sheets>
